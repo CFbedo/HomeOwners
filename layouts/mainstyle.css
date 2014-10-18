@@ -1,0 +1,31 @@
+body{
+	background:#6e6e6e
+}
+
+#main{
+	background:#ebebeb;
+	border-radius:5px;
+	padding:20px;
+	min-height:500px ;
+	margin:5px;
+}
+
+footer{
+	background:#ebebeb;
+	height:100px;
+	width:96%; 
+	bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:5px;
+	margin-top:10px;
+	border-radius:5px;
+	box-shadow:0px  0px 7px  0px  white ;
+	
+}
+
+#middle_column{
+	height:400px;
+	width:2px;
+	background:black;
+}

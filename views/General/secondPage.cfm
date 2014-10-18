@@ -1,0 +1,4 @@
+<cfoutput>
+	
+	#rc.bedo#
+</cfoutput>
